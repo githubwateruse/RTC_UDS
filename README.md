@@ -27,6 +27,7 @@ The `requirements.txt` file contains:
 # Python 3.8.0
 numpy==1.24.4
 pyswmm==1.4.0
+swmm-toolkit==0.15.5
 xlrd==1.2.0
 XlsxWriter==3.2.9
 ```
